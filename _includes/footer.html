@@ -3,17 +3,11 @@
 
   <div class="wrapper">
 
-    <h2 class="footer-heading">{{ site.title | escape }}</h2>
-
     <div class="footer-col-wrapper">
       <div class="footer-col footer-col-1">
         <ul class="contact-list">
           <li class="p-name">
-            {%- if site.author -%}
-              {{ site.author | escape }}
-            {%- else -%}
-              {{ site.title | escape }}
-            {%- endif -%}
+            Email:
             </li>
             {%- if site.email -%}
             <li><a class="u-email" href="mailto:{{ site.email }}">{{ site.email }}</a></li>
@@ -27,6 +21,7 @@
 
       <div class="footer-col footer-col-3">
         <p>{{- site.description | escape -}}</p>
+        <p>Computer Science Engineer - Bachelor Degree</p>
       </div>
     </div>
 

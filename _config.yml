@@ -14,7 +14,7 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 title: Emba Moussa Portfolio
-email: embasbm@@gmail.com
+email: embasbm@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   Ruby on Rails Developer - Software Engineer
 
@@ -22,6 +22,7 @@ baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://embasbm.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: embairik
 github_username:  embasbm
+linkedin_username: embasbm
 
 # Build settings
 markdown: kramdown
