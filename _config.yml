@@ -25,9 +25,9 @@ github_username:  embasbm
 
 # Build settings
 markdown: kramdown
-theme: minima
-# plugins:
-  # - jekyll-feed
+theme: jekyll-theme-modernist
+plugins:
+  - jekyll-seo-tag
 
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
