@@ -4,8 +4,8 @@ title:  "IntelliCentrics"
 categories: Ruby On Rails Developer
 ---
 
-* Contribute to, define and implement best practices.
-* RSpec/TDD
-* DevOps, CI
-* Experience building and integrating API’s
-* Ruby on Rails, JavaScriot, HTML5, CSS3 & JQuery See less
+The role entails active contributions to the definition and implementation of best practices, with a particular emphasis on RSpec/TDD, DevOps, and Continuous Integration (CI).
+
+The candidate should possess experience in building and seamlessly integrating APIs. Proficiency in a range of technologies is expected, including Ruby on Rails, JavaScript, HTML5, CSS3, and JQuery.
+
+These skills collectively form a foundation for effective and efficient development practices.
